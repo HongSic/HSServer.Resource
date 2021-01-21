@@ -1,0 +1,11 @@
+Locale=en-us
+
+STR_LOG_WEB_ROUTER_INITING=Initializing Web Router...
+STR_LOG_WEB_ROUTER_INITED=Initialized Web Router.
+STR_LOG_WEB_ROUTER_ERROR=An error has occurred while initializing Web Router.
+STR_LOG_WEB_MODULE_LOADING=Loading Web Module...  ({0})
+STR_LOG_WEB_MODULE_LOADED=Loaded Web Module.
+STR_LOG_WEB_MODULE_ERROR=An error has occurred while initializing Web Module.
+STR_LOG_WEB_MIDDLEWARE_LOADING=Loading MiddleWare...  ({0})
+STR_LOG_WEB_MIDDLEWARE_LOADED=Loaded MiddleWare.
+STR_LOG_WEB_MIDDLEWARE_ERROR=An error has occurred while initializing MiddleWare. [{0}]
