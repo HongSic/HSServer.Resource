@@ -9,3 +9,5 @@ STR_LOG_WEB_MODULE_ERROR=An error has occurred while initializing Web Module.
 STR_LOG_WEB_MIDDLEWARE_LOADING=Loading MiddleWare...  ({0})
 STR_LOG_WEB_MIDDLEWARE_LOADED=Loaded MiddleWare.
 STR_LOG_WEB_MIDDLEWARE_ERROR=An error has occurred while initializing MiddleWare. [{0}]
+STR_LOG_WEB_SOCKET_LOADING=Loading Web Socket...  ({0})
+STR_LOG_WEB_SOCKET_ERROR=An error has occurred while initializing Web Socket.
