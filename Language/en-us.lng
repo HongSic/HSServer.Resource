@@ -1,5 +1,13 @@
 Locale=en-us
 
+STR_SUCCESS=Success
+STR_FAIL=Fail
+STR_ERROR=Error
+STR_WARN=Warning
+STR_INFO=Info
+STR_EXIST=Exist
+
+
 STR_LOG_WEB_ROUTER_INITING=Initializing Web Router...
 STR_LOG_WEB_ROUTER_INITED=Initialized Web Router.
 STR_LOG_WEB_ROUTER_ERROR=An error has occurred while initializing Web Router.

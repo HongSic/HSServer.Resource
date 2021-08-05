@@ -1,11 +1,18 @@
 Locale=ko-kr
 
+STR_SUCCESS=성공
+STR_FAIL=실패
+STR_ERROR=오류
+STR_WARN=경고
+STR_INFO=정보
+STR_EXIST=존재
+
 STR_LOG_WEB_ROUTER_INITING=웹 라우터를 초기화하는 중입니다...
 STR_LOG_WEB_ROUTER_INITED=웹 라우터 초기화 완료.
 STR_LOG_WEB_ROUTER_ERROR=웹 라우터를 초기화하는 동안 오류가 발생하였습니다
-STR_LOG_WEB_MODULE_LOADING=웹 모듈을 불러오는 중...  ({0})
-STR_LOG_WEB_MODULE_LOADED=웹 모듈을 불러왔습니다.
-STR_LOG_WEB_MODULE_ERROR=웹 모듈을 불러오는동안 오류가 발생하였습니다
+STR_LOG_WEB_ROUTER_LOADING=웹 모듈을 불러오는 중...  ({0})
+STR_LOG_WEB_ROUTER_LOADED=웹 모듈을 불러왔습니다.
+STR_LOG_WEB_ROUTER_ERROR=웹 모듈을 불러오는동안 오류가 발생하였습니다
 STR_LOG_WEB_MIDDLEWARE_LOADING=미들웨어를 불러오는 중... ({0})
 STR_LOG_WEB_MIDDLEWARE_LOADED=미들웨어를 불러왔습니다.
 STR_LOG_WEB_MIDDLEWARE_ERROR=미들웨어를 불러오는 동안 오류가 발생하였습니다. [{0}]
