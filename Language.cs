@@ -1,6 +1,7 @@
 ﻿using HS.Utils;
 using System;
 using System.Globalization;
+using HS.Utils.Resource;
 
 namespace HSServer.Resource
 {
